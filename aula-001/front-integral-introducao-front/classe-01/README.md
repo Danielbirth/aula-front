@@ -2,25 +2,22 @@
 
 # Exercício de classe 🏫
 
-## Lista de supermercado
+## Lista de lojas Grupo Carrefur do Brasil
 
 Neste exercício seu dever é criar uma página HTML válida com os seguintes elementos em ordem:
 
 - **título**
 - **sub-título**
-- **lista**
 - **item da lista**
 - **item da lista**
 - **item da lista**
 - **item da lista**
 - **sub-título**
-- **lista**
+- **item da lista**
+- **item da lista**
 - **item da lista**
 - **item da lista**
 - **sub-título**
-- **lista**
-- **item da lista**
-- **item da lista**
 - **item da lista**
 - **item da lista**
 - **item da lista**
