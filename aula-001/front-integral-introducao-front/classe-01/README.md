@@ -1,6 +1,6 @@
 
 
-# Exercício de classe 🏫
+# Meus exercício ex de lista
 
 ## Lista de lojas Grupo Carrefur do Brasil
 
